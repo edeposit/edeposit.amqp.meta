@@ -1,0 +1,3 @@
+*.pyc
+edeposit.amqp.meta.egg-info
+dist
